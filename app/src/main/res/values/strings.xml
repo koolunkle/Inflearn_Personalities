@@ -3,4 +3,7 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="main_title">Let\'s find out your love type</string>
+    <string name="question">There were favorite flowers in the flower base
+        \nAs time goes, the flowers have all withered
+    \nWhat are you going to do with that?</string>
 </resources>
